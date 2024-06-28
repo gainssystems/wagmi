@@ -1,5 +1,13 @@
 # @wagmi/connectors
 
+## 5.0.21
+
+### Patch Changes
+
+- [#4094](https://github.com/wevm/wagmi/pull/4094) [`ff0760b5900114bcfdf420a9fba3cc278ac95afe`](https://github.com/wevm/wagmi/commit/ff0760b5900114bcfdf420a9fba3cc278ac95afe) Thanks [@omridan159](https://github.com/omridan159)! - Bumped MetaMask SDK to fix `metaMask` connector error bubbling.
+
+- [#4096](https://github.com/wevm/wagmi/pull/4096) [`f5c1585f6c10944c3287cb271eeddb7ee856e6e6`](https://github.com/wevm/wagmi/commit/f5c1585f6c10944c3287cb271eeddb7ee856e6e6) Thanks [@tmm](https://github.com/tmm)! - Switched to named imports for connector async imports.
+
 ## 5.0.20
 
 ### Patch Changes
